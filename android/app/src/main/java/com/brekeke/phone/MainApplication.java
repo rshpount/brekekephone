@@ -1,4 +1,4 @@
-package com.brekeke.phonedev;
+package com.brekeke.phone;
 
 import android.app.Application;
 import com.BV.LinearGradient.LinearGradientPackage;
